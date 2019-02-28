@@ -204,7 +204,7 @@ Fontbakery version: 0.6.11
 <summary>:warning: <b>WARN:</b> Checking OS/2 achVendID.</summary>
 
 * [com.google.fonts/check/018](https://github.com/googlefonts/fontbakery/search?q=com.google.fonts/check/018)
-* :warning: **WARN** OS/2 VendorID value 'STC ' is not a known registered id. You should set it to your own 4 character code, and register that code with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx [code: unknown]
+* :warning: **WARN** OS/2 VendorID value 'STC' is not a known registered id. You should set it to your own 4 character code, and register that code with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx [code: unknown]
 
 </details>
 <details>
